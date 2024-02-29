@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986198044855",
+    "project_id": "student-73a2c",
+    "storage_bucket": "student-73a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986198044855:android:d8f2b7c7efd02f1f811d32",
+        "android_client_info": {
+          "package_name": "com.example.ecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXV2mQiQqKenNv8HnlLX3xGn0YIWSNFCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
